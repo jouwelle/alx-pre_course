@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "ALX"
+^c
+^C
+cd
+wq
